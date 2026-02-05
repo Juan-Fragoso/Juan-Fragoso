@@ -17,14 +17,14 @@
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/REST-02569B.svg?style=for-the-badge&logo=rest&logoColor=white)
 ![CFDI](https://img.shields.io/badge/CFDI%204.0-0F9D58.svg?style=for-the-badge&logo=json&logoColor=white)
-
-# 📖 Learning new technologies
-
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WHM/cPanel](https://img.shields.io/badge/cPanel-FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+# 📖 Learning new technologies
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -34,5 +34,4 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
