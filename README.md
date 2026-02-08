@@ -1,5 +1,5 @@
-![Banner JF](jf-b.png)
-### Full Stack Developer with extensive experience in web technologies such as PHP/Laravel and MySQL, focused on building scalable and maintainable applications. Passionate about innovation and continuously learning new technologies to deliver modern and efficient solutions.
+# 👋 Hi! I'm Juan Fragoso
+#### Full Stack Developer with extensive experience in web technologies such as PHP/Laravel and MySQL, focused on building scalable and maintainable applications. Passionate about innovation and continuously learning new technologies to deliver modern and efficient solutions.
 
 # 💻 Skills
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
